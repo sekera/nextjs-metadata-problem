@@ -1,0 +1,16 @@
+﻿@use "../../styles/common/setup"  as *;
+
+.helpable-button
+{
+    
+    display: flex;
+    &-button
+    {
+        flex-grow: 1;
+    }
+    &-help
+    {
+        flex-basis: 1.75rem;
+        padding-left: .25rem;
+    }
+}

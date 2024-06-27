@@ -1,0 +1,16 @@
+﻿@use "../../styles/common/setup"  as *;
+
+
+.glueo-buttonset
+{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+    gap:1rem;
+    flex-wrap: wrap;
+    
+    &>div
+    {
+        flex-basis: 260px;
+    }
+}

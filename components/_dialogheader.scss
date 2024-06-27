@@ -1,0 +1,42 @@
+﻿header.glueo-dialogheader-bar {
+    min-height:50px;
+    background-color:gray;
+    position:fixed;
+    display:block;
+}
+
+/*a.glueo-dialogheader-logo 
+{
+
+    display:inline-block;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.glueo-dialogheader-logo img
+{
+    width:180px;
+    height:30px;
+}*/
+
+
+nav.glueo-dialogheader-rightnavigation
+{
+    text-align:right;
+    float:right;
+    list-style: none;
+
+}
+
+.glueo-dialogheader-rightnavigation a
+{
+    padding:15px;
+    display:inline-block;
+
+}
+
+.glueo-dialogheader-rightnavigation ul
+{
+    margin:0px;
+
+}

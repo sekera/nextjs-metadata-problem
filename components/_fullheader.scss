@@ -1,0 +1,50 @@
+﻿
+.glueo-fullheader-search,
+.glueo-fullheader-search *
+{
+    box-shadow:none;
+    border:none;
+}
+
+.glueo-fullheader-search span
+{
+    display:inline-block;
+    line-height:20px;
+    padding-left:15px;
+    padding-top:13px;
+    padding-bottom:13px;
+    
+}
+
+.glueo-fullheader-search input
+{
+    width:150px;
+    background-color:#eeeeee;
+    height:24px;
+    line-height:24px;
+    box-shadow:none;
+    border-radius:4px;
+    padding-left:4px;
+    padding-right:4px;
+}
+
+
+
+.glueo-fullheader-search button
+{
+    background-color:transparent;
+    width:39px;
+    height:50px;
+    cursor:pointer;
+
+    padding-top:13px;
+    padding-bottom:13px;
+    padding-right:15px;
+
+}
+
+.glueo-fullheader-search button img 
+{
+    width:24px;
+    height:24px;
+}

@@ -1,0 +1,25 @@
+﻿@use "../../styles/common/setup"  as *;
+
+.help-button
+{
+    &
+    {
+        width: 1.5rem;
+        height: 1.5rem;
+        border-radius: .75rem;
+        background-color: $light;
+        padding: .25rem;
+    }
+
+    &,
+    & img
+    {
+        display: block;
+    }
+
+    @at-root 
+    a#{&}:hover
+    {
+        background-color: $primary;
+    }
+}

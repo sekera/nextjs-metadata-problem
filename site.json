@@ -1,0 +1,50 @@
+{
+  "defaultPageSetup": {
+    "slug": "htmlwasher",
+    "name": "HTML Washer",
+    "alternateNames": [
+      "HTMLWasher",
+      "HTML cleaner",
+      "HTML cleanup tool",
+      "HTML simplifier",
+      "HTML beautifier",
+      "Word to HTML converter",
+      "Clean HTML maker"
+    ],
+    "title": "HTML cleanup tool & simplifier",
+    "description": "An online tool that reduces HTML to basic tags and attributes. Removes scripts, CSS, and other non-basic elements like <object>, <canvas>, etc… Also, corrects errors and formats the HTML doc or a fragment.",
+    "searchEngineTitle": "HTML cleanup tool & simplifier. For basic & clean HTML",
+    "searchEngineDescription": "Reduces HTML to basic tags and attributes. Removes scripts, CSS, and other non-basic elements like <object>,  <canvas>, etc… Also, it corrects errors.",
+    "intro": {
+      "title" : "HTML cleanup tool & simplifier",
+      "bodyHtml" : "<strong>HTML Washer</strong> is a tool which reduces a HTML document (or fragment) to basic HTML tags and attributes – clean HTML"
+    },
+    "keywords": [
+      "html",
+      "cleanup",
+      "tool",
+      "word",
+      "msword"
+    ],
+    "hashtags": [ "devtools" ],
+
+    "googleAnalyticsMeasurementId": "G-DMMTBTNTSV",
+    "googleAdsense": 
+    {
+      "client": "ca-pub-1931674763618818",
+      "adSlot": "3395670162"
+      },
+    
+
+    "url": "https://www.htmlwasher.com/"
+  },
+    "headerMenu": [
+      {
+        "url": "/html/",
+        "caption": "HTML",
+        "tooltip": "HTML and it's history, from sixties to HTML5",
+        "iconSlug": "html"
+      }
+    ],
+  "footerMenu": []
+}

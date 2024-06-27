@@ -1,0 +1,91 @@
+﻿{
+  "horizontalServices": [
+      {
+          "services": [
+              { "slug": "htmlcorrector" },
+              { "slug": "gguid" },
+              { "slug": "sixtyfourbaser" },
+              { "slug": "hexator" },
+              { "slug": "urlenc" },
+              { "slug": "htmlinstant" }
+          ],
+          "placedOnPage": "/"
+      },
+      {
+        "services": [
+            { "slug": "gguid" },
+            { "slug": "htmlinstant" },
+            { "slug": "htmlenc" },
+            { "slug": "htmlcorrector" },
+            { "slug": "hexator" },
+            { "slug": "sixtyfourbaser" }
+        ],
+        "placedOnPage": "/upload/"
+    }
+  ],
+  "sidebarServices": [
+      {
+        "slug": "htmlinstant",
+        "placedOnPage": "/about/",
+        "bodyHtml": "<strong>Html Instant</strong> is an easy to use online WYSIWYG (what you see is what you get HTML editor"
+      }
+  ],
+  "dedicatedPageServices": [
+      {
+          "slug": "htmlcorrector",
+          "bodyHtml": "If you have a wrongly constructed HTML and need to make it valid, use <strong>Html Corrector</strong>, an HTML fixing online tool"
+      },
+      {
+          "slug": "htmlenc",
+          "bodyHtml": "If you need to quickly encode something into an HTML, use <strong>HTML Enc</strong>, an HTML encoder (and vice-versa)"
+      },
+      {
+          "slug": "urlenc",
+          "bodyHtml": "If you need to quickly encode something into a URL, use <strong>URL Enc</strong>, a URL encoder (and vice-versa)"
+      },
+      {
+          "slug": "gguid",
+          "bodyHtml": "If you need to quickly generate a GUID, use <strong>GGuid</strong>, a configurable online tool for GUID generation"
+      },
+      {
+          "slug": "sixtyfourbaser",
+          "bodyHtml": "If you need to convert a binary or a text file to Base64, use <strong>64 Baser</strong>, a Base64 encoder (and vice-versa)"
+      },
+      {
+          "slug": "hexator",
+          "bodyHtml": "If you need to convert a binary or a text file to Hex (Base16), use <strong>Hexator</strong>, a Hex (Base16) encoder (and vice-versa)"
+      },
+      {
+          "slug": "cescaper",
+          "bodyHtml": "If you need to escape a string to use in C or C++ code, use <strong>CEscaper</strong>  to escape it (and vice-versa)"
+      },
+      {
+          "slug": "csharpescaper",
+          "bodyHtml": "If you need to escape a string to use in C# code, use <strong>C#Escaper</strong> to escape it (and vice-versa)"
+      },
+      {
+          "slug": "jsonescaper",
+          "bodyHtml": "If you need to escape a string to use in a JSON, use <strong>JsonEscaper</strong> online tool to escape it (and vice-versa)"
+      },
+      {
+          "slug": "rustescaper",
+          "bodyHtml": "If you need to escape a string to use in Rust code, use <strong>RustEscaper</strong> online tool to escape it (and vice-versa)"
+      },
+      {
+          "slug": "pythonescaper",
+          "bodyHtml": "If you need to escape a string to use in Python code, use <strong>PythonEscaper</strong> online tool to escape it (and vice-versa)"
+      },
+      {
+          "slug": "javascriptescaper",
+          "bodyHtml": "If you need to escape a string to use in JavaScript code, use <strong>JavaScriptEscaper</strong>  online tool to escape it (and vice-versa)"
+      },
+      {
+          "slug": "javaescaper",
+          "bodyHtml": "If you need to escape a string to use in Java code, use <strong>JavaEscaper</strong> online tool to escape it (and vice-versa)"
+      },
+      {
+          "slug": "notationer",
+          "bodyHtml": "If you need to convert text notation (e.g. camelCase to snake_case), you can use <strong>Notationer</strong>, an online tool"
+      }
+  ]
+}
