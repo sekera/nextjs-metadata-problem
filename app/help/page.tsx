@@ -7,8 +7,10 @@ import PageInfo from "@/definitions/PageInfo";
 
 function buildPageInfo():PageInfo{
   return   {
+    pageSetup : {
     title: "Help",
     description: "description of help"
+    }
    };
 }
 

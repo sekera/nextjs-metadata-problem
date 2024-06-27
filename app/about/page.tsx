@@ -5,8 +5,11 @@ import PageInfo from "@/definitions/PageInfo";
 
 function buildPageInfo():PageInfo{
   return   {
-    title: "About",
+    pageSetup : {
+          title: "About",
     description: "description of about"
+    }
+
    };
 }
 

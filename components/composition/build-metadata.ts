@@ -12,8 +12,8 @@ export default function  buildMetadata(pageInfo: PageInfo): Metadata {
 
     metadataBase: new URL("https://www.example.com/"),
 
-    title :pageInfo.title,
-    description : pageInfo.description,
+    title :pageInfo.pageSetup.title,
+    description : pageInfo.pageSetup.description,
 
 
 

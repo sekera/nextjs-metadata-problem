@@ -1,8 +1,10 @@
+import PageSetup from "./PageSetup";
 
 // TODO: better name
 export default interface PageInfo {
-    title:                      string;
-    description:                string;
+
+    pageSetup: PageSetup;
+
     
     
 }

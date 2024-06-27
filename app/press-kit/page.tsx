@@ -6,8 +6,10 @@ import PageInfo from "@/definitions/PageInfo";
 
 function buildPageInfo():PageInfo{
   return   {
+    pageSetup : {
     title: "Press kit",
     description: "description of press kit"
+    }
    };
 }
 

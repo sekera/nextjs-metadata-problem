@@ -7,8 +7,10 @@ import PageInfo from "@/definitions/PageInfo";
 
 function buildPageInfo():PageInfo{
   return   {
+    pageSetup : {
     title: "HTML Washers’ homepage",
-    description: "An online tool that reduces HTML to basic tags and attributes. Removes scripts, CSS, and other non-basic elements like <object>, <canvas>, etc… Also, corrects errors and formats the HTML doc or a fragment.",
+    description: "An online tool that reduces HTML to basic tags and attributes. Removes scripts, CSS, and other non-basic elements like <object>, <canvas>, etc… Also, corrects errors and formats the HTML doc or a fragment."
+    }
   };
 }
 

@@ -7,8 +7,11 @@ import PageInfo from "@/definitions/PageInfo";
 
 function buildPageInfo():PageInfo{
   return   {
+    pageSetup : {
     title: "Privacy",
+
     description: "A legal document, Privacy",
+    }
    };
 }
 

@@ -8,8 +8,10 @@ import PageInfo from "@/definitions/PageInfo";
 
 function buildPageInfo():PageInfo{
   return   {
+    pageSetup : {
     title: "terms of service",
     description: "A legal document, terms of service",
+    }
    };
 }
 
